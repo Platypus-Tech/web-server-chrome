@@ -1,3 +1,4 @@
+### this was all here
 <a target="_blank" href="https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb">![Try it now in CWS](https://raw.github.com/GoogleChrome/chrome-app-samples/master/tryitnowbutton.png "Click here to install this sample from the Chrome Web Store")</a>
 
 ## Web Server for Chrome
@@ -130,3 +131,7 @@ which handles the nonblocking read/write events for you.
 
 
 See CREDITS file
+
+what I want to do
+1. add HTTPS
+2. make it so when you do background it will just close and disappear
